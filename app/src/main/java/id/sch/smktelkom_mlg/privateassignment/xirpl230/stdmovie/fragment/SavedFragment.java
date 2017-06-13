@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.DatabaseHelper;
-import id.sch.smktelkom_mlg.privateassignment.xirpl230.listmovie.R;
+import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.R;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.adapter.SavedAdapter;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.model.Saved;
 

@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.privateassignment.xirpl230.listmovie.R;
+import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.R;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.model.Saved;
 
 /**

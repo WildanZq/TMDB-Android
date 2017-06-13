@@ -13,7 +13,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import id.sch.smktelkom_mlg.privateassignment.xirpl230.listmovie.R;
+import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.R;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.fragment.NowFragment;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.fragment.SavedFragment;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.fragment.SoonFragment;

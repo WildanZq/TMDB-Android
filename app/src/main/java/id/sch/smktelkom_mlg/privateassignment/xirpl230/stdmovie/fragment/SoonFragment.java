@@ -17,7 +17,7 @@ import com.google.gson.Gson;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.privateassignment.xirpl230.listmovie.R;
+import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.R;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.adapter.SourceAdapter;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.model.Source;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.model.SourcesResponse;

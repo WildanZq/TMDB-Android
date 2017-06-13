@@ -16,7 +16,7 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.DatabaseHelper;
-import id.sch.smktelkom_mlg.privateassignment.xirpl230.listmovie.R;
+import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.R;
 import id.sch.smktelkom_mlg.privateassignment.xirpl230.stdmovie.model.Source;
 
 /**
